@@ -1,5 +1,5 @@
 # ZOM
-Welcome to ZOM(Ke Lin Coin) source code library!
+Welcome to ZOM source code library!
 
 ZOM aims to solve the business pain points and strive for technological innovation, perfect governance structure and wide application range. In the coming era of digital economy, ZOM will integrate various cutting-edge technologies to build a decentralized application development platform supporting multiple industries.
 
